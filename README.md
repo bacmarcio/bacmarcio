@@ -1,51 +1,116 @@
-<div align="center">
-  <img height="200em" width="500em" src="https://bacmarcio.github.io/devs-online/assets/img/deathburger.gif"/>
-</div>
-<div align="center">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<font style="background: radial-gradient(circle at 30% 107%, #d6249f 60%, #285AEB 90%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;"><h3>Ola eu sou Márcio Maia, Desenvolvedor FullStack Laravel Tall!</h3></font>
+
+<h3 align="center">💻 I'm a Full Stack PHP Developer specializing in Laravel.</h3>
+<p align="center">🛠️ I've been working as a developer since 2004, with extensive experience in software development. I specialize in PHP, building robust and efficient applications on both the front-end and back-end.</p>
+<p align="center">💼 I've worked on a variety of projects, from small websites to large enterprise systems, always focusing on performance, security, and scalability.</p>
+<p align="center">📈 With over 15 years of experience, I'm always looking for new challenges and opportunities to enhance my skills and contribute to innovative projects.</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=bacmarcio&label=Profile%20views&color=0e75b6&style=flat" alt="Márcio Maia" /> 
+</p>
+
+<div align="center">
  
------
-
+ <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50"/>
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />  
+ 
+  
 </div>
+<br><br><br><br><br><br>
+<img align="right" alt="Coding" width="400" src="https://bacmarcio.github.io/devs-online/assets/img/deathburger.gif">
+<br><br>
+
+
+
+- 🌱 I'm improving my Front-end skills and learning more about Flutter and React Native.
+
+- 📫 How to find me: **marciomaiasilva@gmail.com**
+
+- 📄 Learn more about my experiences on [my LinkedIn profile](https://www.linkedin.com/in/m%C3%A1rcio-maia-25283776/)
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/m%C3%A1rcio-maia-25283776/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=marciomaiasilva@gmail.com&su=Assunto%20do%20Email&body=Corpo%20do%20email" target="_blank">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" width="50" /></a>
+</p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,dotnet" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,vite,nextjs,electron,flutter,jquery,sass,tailwind,alpinejs" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,firebase" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
 <div align="center">
-  <a href="https://github.com/bacmarcio">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bacmarcio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacmarcio&layout=compact&langs_count=7&theme=dracula"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bacmarcio&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Repositories,Organizations,Stars,Followers">
+ </div>
+
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bacmarcio\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bacmarcio&theme=midnight-purple)](https://git.io/streak-stats)
 </div>
 
-----
-<div style="display: inline_block;">
-  <img align="center" alt="Bac-Tailwind"  width="40" src="https://bacmarcio.github.io/devs-online/assets/img/tailwind.png">
-  <img align="center" alt="Bac-Alpine"  width="40" src="https://bacmarcio.github.io/devs-online/assets/img/alpinejs.png">
-  <img align="center" alt="Bac-Laravel"  width="40" src="https://bacmarcio.github.io/devs-online/assets/img/laravel.png">
-  <img align="center" alt="Bac-Liviwire"  width="40" src="https://bacmarcio.github.io/devs-online/assets/img/livewire.png">
-</div>
+<br>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div> 
-<a href="https://www.linkedin.com/in/m%C3%A1rcio-maia-25283776/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://discordapp.com/users/marcio_maia#8808" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/_bac_?t=oNNsA_R7Nbdtp8tqgnpTiQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-<a href = "mailto:marciomaiasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-
-![Snake animation](https://github.com/bacmarcio/bacmarcio/blob/output/github-contribution-grid-snake.svg)
-<!--
-**bacmarcio/bacmarcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right" > Created with 🧡 by <a href="#">Márcio Maia</a></p>
