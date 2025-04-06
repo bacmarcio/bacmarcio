@@ -27,7 +27,7 @@
 <img align="right" alt="Coding" width="400" src="https://bacmarcio.github.io/devs-online/assets/img/deathburger.gif">
 <br><br>
 
-- 🌱 I'm improving my Front-end skills and learning more about Flutter and React Native.
+- 🌱 I'm improving my Front-end skills and learning more <br> about Flutter and React Native.
 
 - 📫 How to find me: **marciomaiasilva@gmail.com**
 
@@ -36,7 +36,8 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/m%C3%A1rcio-maia-25283776/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/m%C3%A1rcio-maia-25283776/" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=marciomaiasilva@gmail.com&su=Assunto%20do%20Email&body=Corpo%20do%20email" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" width="50" /></a>
 </p>
