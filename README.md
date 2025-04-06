@@ -1,5 +1,5 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h3 align="center">💻 I'm a Full Stack PHP Developer specializing in Laravel.</h3>
 <p align="center">🛠️ I've been working as a developer since 2004, with extensive experience in software development. I specialize in PHP, building robust and efficient applications on both the front-end and back-end.</p>
@@ -14,21 +14,18 @@
  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50"/>
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />  
- 
-  
+
 </div>
 <br><br><br><br><br><br>
 <img align="right" alt="Coding" width="400" src="https://bacmarcio.github.io/devs-online/assets/img/deathburger.gif">
 <br><br>
-
-
 
 - 🌱 I'm improving my Front-end skills and learning more about Flutter and React Native.
 
